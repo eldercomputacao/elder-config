@@ -1,9 +1,9 @@
 
 pessoa:
   nome: Prod
-  sobrenome: Pereira
-  nome-completo: Elder Pereira
-  idade: 34
-  peso: 73.0
-  sexo: m
-  vivo: true    
+  sobrenome: Pereira Prod
+  nome-completo: Mia Pereira Prod
+  idade: 340
+  peso: 730.0
+  sexo: f
+  vivo: false    
