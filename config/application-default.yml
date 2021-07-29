@@ -1,9 +1,0 @@
-
-pessoa:
-  nome: Dev
-  sobrenome: Pereira
-  nome-completo: Elder Pereira
-  idade: 34
-  peso: 73.0
-  sexo: m
-  vivo: true    
