@@ -1,9 +1,9 @@
 
 pessoa:
-  nome: KKKK
-  sobrenome: Pereira KKKK
-  nome-completo: Mia Pereira KKKK
-  idade: 3
-  peso: 7.0
-  sexo: m
-  vivo: true    
+  nome: prod
+  sobrenome: Pereira prod
+  nome-completo: Mia Pereira prod
+  idade: 300
+  peso: 777.0
+  sexo: f
+  vivo: false    
